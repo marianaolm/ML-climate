@@ -4,7 +4,8 @@ This is the final project for the course [Machine Learning for Climate and Energ
 
 ## Goal
 Explore the predictability of El Niño. 
-The dataset captures the global sea surface temperature (SST) with a monthly mean temporal resolution and $1^\circ \times 1^\circ$ spatial resolution.
+
+The dataset captures the global sea surface temperature (SST) and the mean sea level pressure (MSLP) with a monthly mean temporal resolution and $1^\circ \times 1^\circ$ spatial resolution.
 
 ## Contributors
 <table>
